@@ -1,3 +1,3 @@
 Name: MENG, Yuan
 ID: 20328795
-![alt text](https://raw.githubusercontent.com/ymenghank/COMP3111-Lab1/lab1.png)
+![alt text](https://github.com/ymenghank/COMP3111-Lab1/blob/master/lab1.png)
